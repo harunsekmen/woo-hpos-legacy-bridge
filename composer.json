@@ -1,0 +1,25 @@
+{
+  "name": "harunsekmen/woo-hpos-legacy-bridge",
+  "description": "Transparent middleware bridging legacy postmeta calls into WooCommerce High-Performance Order Storage (HPOS).",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Harun Sekmen",
+      "homepage": "https://github.com/harunsekmen"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "WooHposLegacyBridge\\": "includes/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
+
