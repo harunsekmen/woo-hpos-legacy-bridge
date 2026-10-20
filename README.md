@@ -1,5 +1,7 @@
 # 🔄 WooCommerce HPOS & Legacy Postmeta Compatibility Bridge
 
+[🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
+
 [![WooCommerce HPOS Ready](https://img.shields.io/badge/WooCommerce-HPOS%20Ready-7f54b3.svg)](https://github.com/harunsekmen/woo-hpos-legacy-bridge)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://github.com/harunsekmen/woo-hpos-legacy-bridge/blob/main/LICENSE)
 [![PHP: 8.1+](https://img.shields.io/badge/PHP-8.1%20to%208.3-8892be.svg)](https://github.com/harunsekmen/woo-hpos-legacy-bridge)
