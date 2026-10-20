@@ -31,7 +31,7 @@ final class Plugin {
         }
 
         $this->interceptor->register();
-        $this->telemetry->register();
+        // Telemetry uses static methods
         $this->admin->register();
     }
 

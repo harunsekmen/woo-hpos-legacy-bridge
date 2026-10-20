@@ -6,6 +6,8 @@ namespace WooHposLegacyBridge;
 defined('ABSPATH') || exit;
 
 final class Telemetry {
+    public function register(): void {}
+
     public const LOG_OPTION = 'whlb_intercepted_keys_log';
     public const MAX_ENTRIES = 50;
 
